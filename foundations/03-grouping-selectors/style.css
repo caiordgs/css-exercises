@@ -1,0 +1,14 @@
+.same,
+.thing {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.zebra {
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(255, 255, 255);
+}
+
+.banana {
+    background-color: #ffff00;
+}
